@@ -16280,7 +16280,6 @@ https://143.110.185.74/visit.js
 http://47.57.137.103/api/x
 https://139.99.66.128:888/async/newtab_promos
 https://8.210.9.175/dot.gif
-http://17824823768:4431/read/v6.61/7DKM5KDKR8
 http://45.15.157.14:82/g.pixel
 https://purpleteam.renatoborbolla.work/pixel
 http://45.15.156.122
@@ -25818,7 +25817,7 @@ https://strn.pl/ipfs/bafybeifhqkw6gfauuozg5egxfvrmbwcyw3h5jglskok5devyqkookr7cti
 https://strn.pl/ipfs/bafkreib56lg2arnkynyrn4qfv2zubth5o3vszuxeepdkxjzrnkv2kfb7gy
 icsc.mycustomerconnect.com/config/icaan.domain.mail.system
 http://sweepstakessurveytoday.com/sweeps-survey.html
-http:/esstore.2022discountsale.ru/
+http://esstore.2022discountsale.ru/
 http://www.minpop.com/sk12pack/idents.php
 http://www.minpop.com/sk12pack/names.php
 https://blog.talosintelligence.com/get-a-loda-this/
@@ -43193,7 +43192,6 @@ http://ftp.spbv.org/yV6CuadvZ3v7G_60Tk
 http://ftp.spbv.org/yV6CuadvZ3v7G_60Tk/
 http://ftp.spbv.org/yV6CuadvZ3v7G_60Tk/
 http://ftp.videoalliance.ru
-http://ftp://46.249.49.109
 http://ftpupload.net
 http://fuckcisanet5nzv4d766izugxhnqqgiyllzfynyb4whzbqhzjojbn7id.onion
 http://fuckfbrlvtibsdw5rxtfjxtog6dfgpz62ewoc2rpor2s6zd5nog4zxad.onion
@@ -43387,7 +43385,7 @@ http://hpoi.online
 http://ht-input.cfd
 http://ht-queen.cfd
 http://ht-specialize.xyz
-http://Https://www.facebook.com/yora.stev.5
+Https://www.facebook.com/yora.stev.5
 http://hvwvrxpinnv.cn
 http://hwyigd.laccessal.org
 http://hylar.xyz
@@ -43847,7 +43845,7 @@ http://ms-offices.com
 http://msservices.https443.org
 http://mssync.one
 http://mssync.one
-http://ms-tech..us
+http://ms-tech.us
 http://msupdate.top
 http://msupdate.top
 http://msupdate.us
@@ -46277,3 +46275,4 @@ https://yrhsywu2009.zapto.org
 https://zen.mozillaupdates.us
 https://zmrtu.com
 https://znegs.xyz
+ftp://46.249.49.109
